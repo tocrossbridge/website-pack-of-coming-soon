@@ -23,13 +23,13 @@ Open the selected HTML at your favorite browser ;)
 <b>Thank you for your support!</b>
 
 # Preview
-<img src="overview.png" alt="What the fuck is going on here?" />
+<img src="v1/img/overview.png" alt="What the fuck is going on here?" />
 
 
 # How is the development of the project right now?
 <b>Last update:</b> 01/03/2021
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra molestie finibus. Donec lacinia quam at est lobortis tempus. Proin ac ipsum vel orci aliquam consectetur.
+I organizated the folder and update the readme. I guess that need more than one template to call this a pack HAHAHAHHA
 
 <br/>
 
