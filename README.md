@@ -1,7 +1,7 @@
 # Coming soon pages
 
 <b>Made with:</b><br/>
-Lorem ipsulum v1.4
+HTML, CSS & JS
 <br/><br/>
 <b>What is this?</b><br/>
 Pack of "Coming soon" pages.
